@@ -38,14 +38,15 @@ class UsersRepository {
             password: `${buf.toString('hex')}.${salt}`,
         }
         records.push(record)
+
         await this.writeAll(records)
 
         return record
     }
 
     async comparePasswords(saved, supplied) {
-        //Saved -> password saved in our database. 'hashed.salt'
-        //Supplied -> password given to us by a user trying to sign in
+        // Saved -> password saved in our database. 'hashed.salt'
+        // Supplied -> password given to us by a user trying sign in
         const [hashed, salt] = saved.split('.')
         const hashedSuppliedBuf = await scrypt(supplied, salt, 64)
 
