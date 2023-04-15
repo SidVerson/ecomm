@@ -1,27 +1,7 @@
 [
-    {
-        "email": "test5@test.com",
-        "password": "8ba67fe26cc622c1599b89164d8e8d2b4caa1fb6bfe447377bea2cb7bb46bde378538f87040b7b06ec2471e86b14c6651dea9d006e8d2db25bd2bf690e7976c5.7aec80841967ccf3",
-        "id": "3f0e650d"
-    },
-    {
-        "email": "test10@test.com",
-        "password": "71d0b0f8f1ba140628b696fd47f5e9275197d5b719a4b02b4f26d3fbc73eb08215c9a68fab8cb439f79b7b3003ab8882af7f3417db00e17404e01576d637ff87.88180a2c77f0dfc0",
-        "id": "40a934ac"
-    },
-    {
-        "email": "sidoriki1@yandex.ru",
-        "password": "fc6851e68946d4eff3742f4b903b6204b12f0ae0982027064d6b197e91d7a3abf754617bc3f5051f6038c26bfd708c12b71073b728720a192fab6a615c8c6640.b7cca0054b59a7d7",
-        "id": "b8b4eaa6"
-    },
-    {
-        "email": "sidoriki1@yandex.ru",
-        "password": "d311c9d5b0252dfd561672b4f317396f0c454f0222c98aabb9cade7fdc966cdf7d225abca20736cb3ffd79c58ce66d0663c4c3f9b865e7a8742b4f273638d83b.093b44b2a785db98",
-        "id": "2bc6653f"
-    },
-    {
-        "email": "sidoriki1@yandex.ru",
-        "password": "10f31a6803723515f68fd5c070bc3961d66c22afeb4824e6421418bb77bc49d7814e77863faabbd8053504a8eea0667f6e52b7ef9095cb73bb54f923cf82a639.65e3575f7c5aa1d4",
-        "id": "ccb33ba5"
-    }
+  {
+    "email": "test@test.com",
+    "password": "017e8ef9151e5c6db68f51dbe467fdbf0e429199a8844119fe7e5254d14260cdff2ade652a844a86f3c4ae9f6df2c69a9e4e5abe16018be8c9f3579054ac93e0.477b6f39eff22482",
+    "id": "b64ac9b6"
+  }
 ]
