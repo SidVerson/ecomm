@@ -30,6 +30,6 @@ Start the server
 
 ## Features
 
--   Cookie-based authentification
--   Shopping cart
--   Hashing users data
+-Cookie-based authentification
+-Shopping cart
+-Hashing users data
